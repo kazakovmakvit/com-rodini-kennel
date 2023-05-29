@@ -189,3 +189,6 @@
       SELECT id, name, birthDate, genius_id FROM HorseDonkey
       UNION
       SELECT id, name, birthDate, genius_id FROM YoungAnimals;
+   ```
+
+# Задача в папке kennel
